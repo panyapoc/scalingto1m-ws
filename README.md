@@ -4,7 +4,6 @@
 
 ### 🔗[**Start Here**](https://dashboard.eventengine.run/login)
 
-
 ## Lab 1 : Vertically scale your EC2 ⬆
 
 ### [🔗**Set up your EC2**](https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/10-ec2/ec2-linux)
