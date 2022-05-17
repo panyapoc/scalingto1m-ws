@@ -12,7 +12,7 @@
 
 ### [🔗**RDS Hands on labs**](https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/50-rds/rds)
 
-## Lab 3 : EC2 Auto Scaling ⤴
+## Lab 3 : EC2 Auto Scaling ↔️
 
 ### [🔗**EC2 Auto Scaling**](https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/10-ec2/ec2-auto-scaling/ec2-auto-scaling)
 
