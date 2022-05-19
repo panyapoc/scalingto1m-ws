@@ -16,6 +16,9 @@
 
 ### [🔗**EC2 Auto Scaling**](https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/10-ec2/ec2-auto-scaling/ec2-auto-scaling)
 
+## Lab 4 : Offload static content to S3 ↔️
+
+### [🔗**S3 Hands on labs***](https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/advanced-modules/storage)
 
 ## Deck
 
